@@ -1,10 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=GregoryRFGMS&color=006bed)
-
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Desenvolvimento Mobile** no **Cotemig**.
-- 🌱 Aprendendo mais sobre **React e Python**.
+Python**.
 
 ## Minhas Skills
 
